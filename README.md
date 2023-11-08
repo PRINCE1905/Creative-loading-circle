@@ -1,1 +1,0 @@
-The Half Loading Circle is a simple and lightweight Html Css library that allows you to add a visually appealing loading animation in the form of a half circle. This can be useful when you want to indicate that a task is in progress or when you want to enhance the user experience on your website or application.
